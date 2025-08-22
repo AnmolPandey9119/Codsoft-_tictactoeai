@@ -21,11 +21,11 @@ AI Algorithm: Minimax
 To get a local copy up and running, follow these simple steps.
 
 Clone the repository:
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/AnmolPandey9119/Codsoft-_tictactoeai.git
 
 Navigate to the project directory:
 
-cd your-repository-name
+cd codsoft_tictactoeai
 
 🚀 How to Play
 Run the main game file from your terminal:
