@@ -30,7 +30,7 @@ cd codsoft_tictactoeai
 🚀 How to Play
 Run the main game file from your terminal:
 
-python main.py
+tictactoegame.py
 
 The game board will be displayed.
 
